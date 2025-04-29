@@ -160,6 +160,15 @@
 			</section>
 		</section>
 	</section>
+	<section id="contact">
+	  <h2>Contactez-moi</h2>
+	  <form>
+		<input type="text" name="name" placeholder="Votre nom" required>
+		<input type="email" name="email" placeholder="Votre email" required>
+		<textarea name="message" placeholder="Votre message" required></textarea>
+		<button type="submit">Envoyer</button>
+	  S</form>
+</section>
 
 </body>
 </html>
